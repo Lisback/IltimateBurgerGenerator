@@ -1,0 +1,97 @@
+{
+    "app_title": "🍔 Ultimate Burger Generator Pro",
+    "classic_tab": "🍔 Classic",
+    "extreme_tab": "🌶️ Extreme",
+    "zodiac_tab": "♈ Zodiac",
+    "size_label": "Size:",
+    "type_label": "Type:", 
+    "diet_label": "Diet:",
+    "sauce_label": "Sauce:",
+    "generate_btn": "✨ Generate",
+    "vegan_option": "Vegan",
+    "halal_option": "Halal",
+    "kosher_option": "Kosher",
+    "choose_sign": "Choose your sign",
+    "element": "Element",
+    "save_btn": "💾 Save",
+    "pdf_btn": "📄 Export PDF",
+    "share_btn": "🔗 Share",
+    "history_title": "📜 History",
+    "view_btn": "👁️ View",
+    "delete_btn": "🗑️ Delete",
+    "ingredients_label": "🥗 Ingredients:",
+    "calories_label": "🔥 Calories:",
+    "prediction_label": "🔮 Prediction:",
+    "crazy_level": "Crazy level:",
+    "no_description": "No description available",
+    "sauces": {
+        "Ketchup": "Tomato, sugar, vinegar. Classic and tangy.",
+        "Mayo": "Egg, oil, mustard. Creamy and rich.",
+        "BBQ": "Vinegar, molasses, spices. Smoky and sweet.",
+        "Special": "Mayo, ketchup, pickles. Chef's secret!"
+    },
+    "zodiac_signs": {
+        "Aries": {"element": "Fire", "emoji": "♈"},
+        "Taurus": {"element": "Earth", "emoji": "♉"},
+        "Gemini": {"element": "Air", "emoji": "♊"},
+        "Cancer": {"element": "Water", "emoji": "♋"},
+        "Leo": {"element": "Fire", "emoji": "♌"},
+        "Virgo": {"element": "Earth", "emoji": "♍"},
+        "Libra": {"element": "Air", "emoji": "♎"},
+        "Scorpio": {"element": "Water", "emoji": "♏"},
+        "Sagittarius": {"element": "Fire", "emoji": "♐"},
+        "Capricorn": {"element": "Earth", "emoji": "♑"},
+        "Aquarius": {"element": "Air", "emoji": "♒"},
+        "Pisces": {"element": "Water", "emoji": "♓"}
+    },
+    "zodiac_predictions": {
+        "Aries": "A fiery burger for your passionate nature!",
+        "Taurus": "Rich flavors for your gourmet palate.",
+        "Gemini": "A surprising mix, just like your personality.",
+        "Cancer": "Comfort and sweetness in every bite.",
+        "Leo": "A royal burger, fit for your charisma.",
+        "Virgo": "Perfect balance for your analytical mind.",
+        "Libra": "Harmonious flavors for your diplomatic soul.",
+        "Scorpio": "Intense and mysterious, just like you.",
+        "Sagittarius": "Bold and spicy, for your thirst for adventure.",
+        "Capricorn": "Classic and efficient, like your ambition.",
+        "Aquarius": "Innovative and unique, just like you.",
+        "Pisces": "Soft and creative, for your imagination."
+    },
+    "ingredients": {
+        "classic": {
+            "Hamburger": ["Bun", "Beef patty"],
+            "Cheeseburger": ["Bun", "Beef patty", "Cheese"],
+            "Bacon Burger": ["Bun", "Beef patty", "Cheese", "Bacon"],
+            "Chicken Burger": ["Bun", "Chicken fillet"],
+            "Fish Burger": ["Bun", "Fish fillet"],
+            "Veggie Burger": ["Whole wheat bun", "Veggie patty"],
+            "Double steak": "Double steak",
+            "Triple steak": "Triple steak",
+            "Double filet": "Double fillet",
+            "Triple filet": "Triple fillet"
+        },
+        "extreme": {
+            "non_vegan": {
+                "1": ["Cornflakes", "Ketchup"],
+                "3": ["Nutella", "Fries"],
+                "5": ["Sashimi", "Vanilla ice cream"],
+                "7": ["Foie gras", "Caviar"],
+                "10": ["Ghost pepper", "Edible gold"]
+            },
+            "vegan": {
+                "1": ["Cereal", "Vegan ketchup"],
+                "3": ["Vegan chocolate", "Sweet potatoes"],
+                "5": ["Tofu", "Coconut ice cream"],
+                "7": ["Truffles", "Eggplant caviar"],
+                "10": ["Vegan pepper", "Edible glitter"]
+            }
+        },
+        "zodiac": {
+            "Fire": ["Spicy bun", "Spicy steak", "Grilled onions", "Chili peppers"],
+            "Earth": ["Whole wheat bun", "Charolais beef", "Bacon", "Mushrooms"],
+            "Air": ["Light bun", "Chicken escalope", "Lettuce", "Cucumber"],
+            "Water": ["Soft bun", "Fish fillet", "Avocado", "Shrimp"]
+        }
+    }
+}
