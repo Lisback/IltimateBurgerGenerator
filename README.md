@@ -1,2 +1,25 @@
-# UltimateBurgerGenerator
-Générateur de burgers multilingue avec modes Classique/Extrême/Zodiaque
+# 🍔 Ultimate Burger Generator Pro
+
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+A multilingual burger generator with 3 unique modes: Classic, Extreme, and Zodiac!
+
+[🇫🇷 Version française disponible ici](README-fr.md)  
+*(Last sync: 2023-08-05)*
+
+## ✨ Features
+- **3 generation modes**:
+  - 🍔 Classic (Hamburger, Cheeseburger...)
+  - 🌶️ Extreme (Customizable crazy levels)
+  - ♈ Zodiac (Personalized by star sign)
+- **i18n**: FR/EN JSON translation system
+- **History**: SQLite database
+- **Export**: PDF and social sharing
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/yourusername/UltimateBurgerGenerator.git
+cd UltimateBurgerGenerator
+pip install -r requirements.txt
+python src/UBGv2.py
