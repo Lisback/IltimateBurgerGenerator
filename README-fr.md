@@ -3,9 +3,6 @@
 [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
-![Python](https://img.shields.io/badge/python-3.8+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 Générateur de burgers multilingue avec 3 modes uniques : Classique, Extrême et Zodiaque !
 
 [🇬🇧 English version available here](README.md)  
