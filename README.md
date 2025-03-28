@@ -1,7 +1,7 @@
 # 🍔 Ultimate Burger Generator Pro
 
-![Python](https://img.shields.io/badge/python-3.8+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
 A multilingual burger generator with 3 unique modes: Classic, Extreme, and Zodiac!
 
